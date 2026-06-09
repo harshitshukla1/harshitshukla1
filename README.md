@@ -1,4 +1,4 @@
-# 🌌 Harshit Shukla | Senior Data Engineer & AI Practitioner
+# 🌌 Harshit Shukla | Data Engineer & AI Integrator
 ### ◈ Orchestrating Intelligence • Building Scalable Data Systems • AWS Cloud Architect ◈
 
 <div align="center">
