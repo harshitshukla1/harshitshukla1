@@ -5,18 +5,18 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=HARSHIT%20SHUKLA&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%E2%97%88%20AI%20Architect%20%E2%97%88%20Cloud%20Practitioner&descAlignY=58&descAlign=50" width="100%"/>
 </div>
-```python
+<pre><code class="language-python">
 class HarshitShukla:
     def __init__(self):
         self.name = "Harshit Shukla"
         self.role = "Senior Data Engineer | AI Architect"
-        self.location = "📍 Bengaluru, India"
+        self.location = " Bengaluru, India"
         self.experience = "4+ years"
         self.skills_level = "Expert DE & Intermediate AI"
         self.current_scale = {
             "transactions_per_day": "1-2 Million",
             "events_per_day": "50 Million+",
-            "revenue_impact": "₹10-20 Crore",
+            "revenue_impact": "10-20 Crore",
             "vendors": "5000+",
             "uptime": "99.9%"
         }
@@ -32,6 +32,7 @@ class HarshitShukla:
 # Booting HarshitShukla Profile...
 me = HarshitShukla()
 print(me.get_unique_value())
+</code></pre>
 <div align="center">
 
 | Metric | Achievement | Company |
