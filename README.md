@@ -24,52 +24,43 @@
 ## 🎯 The Engineer Who Builds Systems That Think
 
 ## 🎯 About Me - The Engineer Profile
-
-<div align="center">
+## 🎯 The Engineer Who Builds Systems That Think
 
 ```python
 class HarshitShukla:
-    """Senior Data Engineer & AI Architect"""
-    
     def __init__(self):
-        self.name        = "Harshit Shukla"
-        self.role        = "Data Engineer | AI Architect"
-        self.location    = "📍 Bengaluru, India"
-        self.experience  = "4+ years"
-        self.email       = "harshitshukla003@gmail.com"
-        
+        self.name = "Harshit Shukla"
+        self.role = "Data Engineer | AI Architect"
+        self.location = "📍 Bengaluru, India"
+        self.experience = "4+ years"
         self.current_scale = {
-            "💸 transactions_per_day" : "1-2 Million",
-            "📊 events_per_day"       : "50 Million+",
-            "💰 revenue_impact"       : "₹10-20 Crore",
-            "🏢 vendors_served"       : "5000+",
-            "⚡ pipeline_uptime"      : "99.9%"
+            "transactions_per_day": "1-2 Million",
+            "events_per_day": "50 Million+",
+            "revenue_impact": "₹10-20 Crore",
+            "vendors": "5000+",
+            "uptime": "99.9%"
         }
-        
-        self.tech_stack = {
-            "languages"     : ["Python", "SQL", "PySpark", "Scala"],
-            "cloud"         : ["AWS", "Azure", "GCP", "Snowflake"],
-            "big_data"      : ["Spark", "Databricks", "Kafka", "Airflow"],
-            "ai_systems"    : ["LangChain", "LangGraph", "Groq", "Llama 3.3"]
-        }
+        self.passion = "Orchestrating AI to build systems that scale"
     
-    def superpower(self):
+    def get_unique_value(self):
         return ("I don't just write code. "
                 "I orchestrate AI to build production-grade "
                 "systems in HOURS that traditionally take WEEKS.")
     
-    def looking_for(self):
+    def daily_routine(self):
         return [
-            "🚀 Senior Data Engineer roles",
-            "🤖 AI/ML Engineer positions",
-            "☁️ Cloud Architect opportunities",
-            "💡 Consulting projects"
+            "☕ Coffee + Check Pipeline Health",
+            "🤖 Collaborate with AI Agents",
+            "📊 Optimize Data Workflows",
+            "🚀 Ship Production Code",
+            "📚 Learn New AI Tools"
         ]
 
-# Initialize
-harshit = HarshitShukla()
-print(harshit.superpower())
 
+# Instantiate
+me = HarshitShukla()
+print(me.get_unique_value())
+```
 ## 🚀 Live Production Impact
 
 <div align="center">
