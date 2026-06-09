@@ -5,6 +5,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=HARSHIT%20SHUKLA&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%E2%97%88%20AI%20Architect%20%E2%97%88%20Cloud%20Practitioner&descAlignY=58&descAlign=50" width="100%"/>
 </div>
+
+---
+
+## 🎯 The Engineer Who Builds Systems That Think
+
 <pre style="background-color: #0d1117; color: #c9d1d9; padding: 16px; border-radius: 6px; font-family: monospace; overflow-x: auto; border: 1px solid #30363d;">
 <div><span style="color: #ff7b72;">class</span> <span style="color: #d2a8ff;">HarshitShukla</span>:</div>
 <div>&nbsp;&nbsp;<span style="color: #ff7b72;">def</span> <span style="color: #d2a8ff;">__init__</span>(<span style="color: #ffa657;">self</span>):</div>
@@ -33,6 +38,9 @@
 <div>me = HarshitShukla()</div>
 <div><span style="color: #d2a8ff;">print</span>(me.get_unique_value())</div>
 </pre>
+
+---
+
 <div align="center">
 
 | Metric | Achievement | Company |
@@ -40,7 +48,7 @@
 | 🚀 **Events Processed Daily** | 50M+ | Nike (Wipro) |
 | 💰 **Revenue Supported** | ₹10-20 Crore | RM Private Ltd |
 | ⚡ **Performance Boost** | 30% Reduction | PySpark Jobs |
-| 🎯 **Pipeline Reliability** | 99.9% | Apache Airflow |
+|  **Pipeline Reliability** | 99.9% | Apache Airflow |
 | 📊 **Data Accuracy** | 99.9% | Healthcare JNJ |
 | 🔄 **SQL Optimization** | 25% Faster | Query Performance |
 
@@ -124,7 +132,7 @@
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
-### 📡 Streaming & Real-Time
+###  Streaming & Real-Time
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Confluent](https://img.shields.io/badge/Confluent-blue?style=for-the-badge&logo=apache-kafka)
 ![Spark Streaming](https://img.shields.io/badge/Spark_Streaming-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
@@ -205,7 +213,7 @@
 
 ---
 
-## 🏆 Featured Projects
+##  Featured Projects
 
 ### 🌌 AI Weather Intelligence Pipeline
 [![Live Dashboard](https://img.shields.io/badge/🌐_LIVE_DASHBOARD-00d4ff?style=for-the-badge)](https://ai-weather-harshit.streamlit.app)
@@ -230,7 +238,7 @@
 **Aug 2024 – Present** | Bengaluru, India
 - 🏗️ Designed end-to-end **Medallion Architecture** on AWS Databricks
 - ⚡ Processing **1-2 million daily transactions** from 5000+ vendors
-- 💰 Supporting **₹10-20 Crore revenue** operations
+- 💰 Supporting **10-20 Crore revenue** operations
 - 🤖 Built **AI-powered support assistant** for pipeline failure analysis
 - 📊 Created Gold layer Delta tables for analytics & reporting
 
@@ -266,7 +274,7 @@
 
 ---
 
-## 🏆 Achievements & Recognition
+##  Achievements & Recognition
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=harshitshukla1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" />
@@ -290,17 +298,6 @@ graph LR
     style F fill:#00ff88,color:#000
     style G fill:#00ff88,color:#000
     style H fill:#00ff88,color:#000
-```
-
-| Aspect | Others | **Harshit** |
-|--------|--------|-------------|
-| Setup Time | Days | **Minutes** |
-| Cloud Cost | $200+/month | **$0/month** |
-| AI Integration | None | **Agentic AI** |
-| Production Time | 3-4 weeks | **1 session** |
-| Dev Environment | Local Machine | **Cloud-Native** |
-
----
 
 ## 🤝 Let's Build Something Amazing Together
 
