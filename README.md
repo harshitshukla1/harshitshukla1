@@ -23,27 +23,36 @@
 
 ## 🎯 The Engineer Who Builds Systems That Think
 
-```python
-class HarshitShukla:
-    def __init__(self):
-        self.name = "Harshit Shukla"
-        self.role = " Data Engineer | AI Architect"
-        self.location = "📍 Bengaluru, India"
-        self.experience = "4+ years"
-        self.current_scale = {
-            "transactions_per_day": "1-2 Million",
-            "events_per_day": "50 Million+",
-            "revenue_impact": "₹10-20 Crore",
-            "vendors": "5000+",
-            "uptime": "99.9%"
-        }
-        self.passion = "Orchestrating AI to build systems that scale"
-    
-    def get_unique_value(self):
-        return "I don't just write code. I orchestrate AI to build production-grade systems in HOURS that traditionally take WEEKS."
-```
+## 🎯 About Me - The Engineer Profile
 
----
+```json
+{
+  "name": "Harshit Shukla",
+  "role": "Data Engineer | AI Architect",
+  "location": "📍 Bengaluru, India",
+  "experience": "4+ years",
+  "current_scale": {
+    "💸 transactions_per_day": "1-2 Million",
+    "📊 events_per_day": "50 Million+",
+    "💰 revenue_impact": "₹10-20 Crore",
+    "🏢 vendors_served": "5000+",
+    "⚡ pipeline_uptime": "99.9%"
+  },
+  "tech_stack": {
+    "languages": ["Python", "SQL", "PySpark"],
+    "cloud": ["AWS", "Snowflake", "Databricks"],
+    "big_data": ["Spark", "Kafka", "Airflow"],
+    "ai_systems": ["LangChain", "Groq", "Llama 3.3"]
+  },
+  "superpower": "Orchestrating AI to build systems that scale",
+  "open_to": [
+    "Senior Data Engineer roles",
+    "AI/ML Engineer positions",
+    "Cloud Architect opportunities"
+  ],
+  "contact": "harshitshukla003@gmail.com"
+}
+```
 
 ## 🚀 Live Production Impact
 
@@ -84,12 +93,10 @@ class HarshitShukla:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
-![Regex](https://img.shields.io/badge/Regex-3776AB?style=for-the-badge)
 
 ### ☁️ AWS Cloud Mastery
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -97,19 +104,13 @@ class HarshitShukla:
 ![AWS Glue](https://img.shields.io/badge/AWS_Glue-FF9900?style=for-the-badge&logo=aws-glue&logoColor=white)
 ![AWS Athena](https://img.shields.io/badge/AWS_Athena-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
-![AWS EMR](https://img.shields.io/badge/AWS_EMR-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Redshift](https://img.shields.io/badge/AWS_Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white)
-![AWS Kinesis](https://img.shields.io/badge/AWS_Kinesis-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AWS CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
 ![AWS IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
-![AWS RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
 
 ### 🌐 Multi-Cloud Platforms
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Azure Databricks](https://img.shields.io/badge/Azure_Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Azure Data Factory](https://img.shields.io/badge/Data_Factory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Azure Synapse](https://img.shields.io/badge/Synapse-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white)
 ![Dataflow](https://img.shields.io/badge/Dataflow-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -124,7 +125,6 @@ class HarshitShukla:
 ![HDFS](https://img.shields.io/badge/HDFS-yellow?style=for-the-badge&logo=apache-hadoop&logoColor=black)
 ![MapReduce](https://img.shields.io/badge/MapReduce-blue?style=for-the-badge)
 ![Apache Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black)
-![Apache Flink](https://img.shields.io/badge/Flink-E6526F?style=for-the-badge&logo=apache-flink&logoColor=white)
 ![Cluster Management](https://img.shields.io/badge/Cluster_Management-orange?style=for-the-badge)
 ![Performance Tuning](https://img.shields.io/badge/Performance_Tuning-red?style=for-the-badge)
 ![Big Data](https://img.shields.io/badge/Big_Data-darkblue?style=for-the-badge)
@@ -132,40 +132,25 @@ class HarshitShukla:
 ### 📊 Data Warehousing
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Databricks SQL](https://img.shields.io/badge/Databricks_SQL-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white)
 ![Star Schema](https://img.shields.io/badge/Star_Schema-yellow?style=for-the-badge)
 ![Snowflake Schema](https://img.shields.io/badge/Snowflake_Schema-cyan?style=for-the-badge)
 ![Dimensional Modeling](https://img.shields.io/badge/Dimensional_Modeling-purple?style=for-the-badge)
 
 ### 🗄️ Databases (SQL & NoSQL)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![DBMS](https://img.shields.io/badge/DBMS-336791?style=for-the-badge)
 
 ### 🔄 Workflow Orchestration & ETL Tools
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Apache NiFi](https://img.shields.io/badge/NiFi-728E9B?style=for-the-badge&logo=apache-nifi&logoColor=white)
-![Talend](https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=talend&logoColor=white)
-![Informatica](https://img.shields.io/badge/Informatica-FF6B00?style=for-the-badge)
-![Prefect](https://img.shields.io/badge/Prefect-024DFD?style=for-the-badge&logo=prefect&logoColor=white)
-![Luigi](https://img.shields.io/badge/Luigi-red?style=for-the-badge)
-![Dagster](https://img.shields.io/badge/Dagster-654FF0?style=for-the-badge)
 
 ### 📡 Streaming & Real-Time
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Confluent](https://img.shields.io/badge/Confluent-blue?style=for-the-badge&logo=apache-kafka)
-![AWS Kinesis](https://img.shields.io/badge/Kinesis-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Spark Streaming](https://img.shields.io/badge/Spark_Streaming-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Pulsar](https://img.shields.io/badge/Pulsar-188FFF?style=for-the-badge&logo=apache-pulsar&logoColor=white)
 ![Event-Driven](https://img.shields.io/badge/Event_Driven-orange?style=for-the-badge)
 
 ### 🐍 Python Data Stack
@@ -188,16 +173,13 @@ class HarshitShukla:
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Apache Superset](https://img.shields.io/badge/Superset-20A6C9?style=for-the-badge&logo=apache-superset&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF6B6B?style=for-the-badge)
 
 ### 🧪 Data Quality & Governance
 ![Great Expectations](https://img.shields.io/badge/Great_Expectations-FF6B00?style=for-the-badge)
-![Apache Atlas](https://img.shields.io/badge/Apache_Atlas-yellow?style=for-the-badge)
 ![Unity Catalog](https://img.shields.io/badge/Unity_Catalog-FF3621?style=for-the-badge&logo=databricks)
 ![DataHub](https://img.shields.io/badge/DataHub-blue?style=for-the-badge)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![Soda](https://img.shields.io/badge/Soda_Core-purple?style=for-the-badge)
 ![Risk Management](https://img.shields.io/badge/Risk_Management-red?style=for-the-badge)
 ![Compliance](https://img.shields.io/badge/Compliance-darkgreen?style=for-the-badge)
 
@@ -213,23 +195,13 @@ class HarshitShukla:
 ![Generative AI](https://img.shields.io/badge/Generative_AI-FF6B6B?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-9B59B6?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG_Systems-1ABC9C?style=for-the-badge)
-![Vector DB](https://img.shields.io/badge/Pinecone-00d4ff?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-purple?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-blue?style=for-the-badge&logo=meta)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Systems-darkblue?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-orange?style=for-the-badge)
 ![Self-Healing AI](https://img.shields.io/badge/Self--Healing_AI-green?style=for-the-badge)
 
 ### 🛠️ DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
 ### 🔧 Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
