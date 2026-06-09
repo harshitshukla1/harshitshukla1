@@ -5,35 +5,34 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=HARSHIT%20SHUKLA&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%E2%97%88%20AI%20Architect%20%E2%97%88%20Cloud%20Practitioner&descAlignY=58&descAlign=50" width="100%"/>
 </div>
-## 🎯 The Engineer Who Builds Systems That Think
-
-```python
-class HarshitShukla:
-    def __init__(self):
-        self.name = "Harshit Shukla"
-        self.role = "Senior Data Engineer | AI Architect"
-        self.location = "📍 Bengaluru, India"
-        self.experience = "4+ years"
-        self.skills_level = "Expert DE & Intermediate AI"
-        self.current_scale = {
-            "transactions_per_day": "1-2 Million",
-            "events_per_day": "50 Million+",
-            "revenue_impact": "₹10-20 Crore",
-            "vendors": "5000+",
-            "uptime": "99.9%"
-        }
-        self.passion = "Orchestrating AI to build systems that scale"
-    
-    def get_unique_value(self):
-        return ("I don't just write code. I orchestrate AI to build production-grade "
-                "systems in HOURS that traditionally take WEEKS.")
-    
-    def ai_productivity(self):
-        return "10x throughput using Cursor, LangChain, & Agentic Workflows"
-
-# Booting HarshitShukla Profile...
-me = HarshitShukla()
-print(me.get_unique_value())
+<pre style="background-color: #0d1117; color: #c9d1d9; padding: 16px; border-radius: 6px; font-family: monospace; overflow-x: auto; border: 1px solid #30363d;">
+<div><span style="color: #ff7b72;">class</span> <span style="color: #d2a8ff;">HarshitShukla</span>:</div>
+<div>&nbsp;&nbsp;<span style="color: #ff7b72;">def</span> <span style="color: #d2a8ff;">__init__</span>(<span style="color: #ffa657;">self</span>):</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ffa657;">self</span>.name = <span style="color: #a5d6ff;">"Harshit Shukla"</span></div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ffa657;">self</span>.role = <span style="color: #a5d6ff;">"Senior Data Engineer | AI Architect"</span></div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ffa657;">self</span>.location = <span style="color: #a5d6ff;">"📍 Bengaluru, India"</span></div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ffa657;">self</span>.experience = <span style="color: #a5d6ff;">"4+ years"</span></div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ffa657;">self</span>.skills_level = <span style="color: #a5d6ff;">"Expert DE & Intermediate AI"</span></div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ffa657;">self</span>.current_scale = {</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #a5d6ff;">"transactions_per_day"</span>: <span style="color: #a5d6ff;">"1-2 Million"</span>,</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #a5d6ff;">"events_per_day"</span>: <span style="color: #a5d6ff;">"50 Million+"</span>,</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #a5d6ff;">"revenue_impact"</span>: <span style="color: #a5d6ff;">"₹10-20 Crore"</span>,</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #a5d6ff;">"vendors"</span>: <span style="color: #a5d6ff;">"5000+"</span>,</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #a5d6ff;">"uptime"</span>: <span style="color: #a5d6ff;">"99.9%"</span></div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;}</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ffa657;">self</span>.passion = <span style="color: #a5d6ff;">"Orchestrating AI to build systems that scale"</span></div>
+<br>
+<div>&nbsp;&nbsp;<span style="color: #ff7b72;">def</span> <span style="color: #d2a8ff;">get_unique_value</span>(<span style="color: #ffa657;">self</span>):</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ff7b72;">return</span> (<span style="color: #a5d6ff;">"I don't just write code. I orchestrate AI to build production-grade "</span></div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #a5d6ff;">"systems in HOURS that traditionally take WEEKS."</span>)</div>
+<br>
+<div>&nbsp;&nbsp;<span style="color: #ff7b72;">def</span> <span style="color: #d2a8ff;">ai_productivity</span>(<span style="color: #ffa657;">self</span>):</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ff7b72;">return</span> <span style="color: #a5d6ff;">"10x throughput using Cursor, LangChain, & Agentic Workflows"</span></div>
+<br>
+<div><span style="color: #8b949e;"># Booting HarshitShukla Profile...</span></div>
+<div>me = HarshitShukla()</div>
+<div><span style="color: #d2a8ff;">print</span>(me.get_unique_value())</div>
+</pre>
 <div align="center">
 
 | Metric | Achievement | Company |
