@@ -1,34 +1,23 @@
 <!-- ═══════════════════════════════════════════════════
-     HARSHIT SHUKLA -DATA ENGINEER & AI ARCHITECT
+     HARSHIT SHUKLA - SENIOR DATA ENGINEER & AI ARCHITECT
      ═══════════════════════════════════════════════════ -->
 
 <div align="center">
-  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=HARSHIT%20SHUKLA&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%E2%97%88%20AI%20Architect%20%E2%97%88%20Cloud%20Practitioner&descAlignY=58&descAlign=50" width="100%"/>
-
-  <a href="https://github.com/harshitshukla1">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Building+Scalable+ETL+Pipelines+at+%E2%82%B910-20+Crore+Scale;Processing+50M%2B+Events%2FDay+%7C+1-2M+Daily+Transactions;Orchestrating+AI+Agents+%7C+Building+Self-Healing+Systems;Snowflake+%E2%97%88+Databricks+%E2%97%88+AWS+%E2%97%88+LangChain+%E2%97%88+Agentic+AI" alt="Typing SVG" />
-  </a>
-
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=harshitshukla1&label=Profile+Views&color=00d4ff&style=for-the-badge" />
-    <img src="https://img.shields.io/github/followers/harshitshukla1?label=Followers&style=for-the-badge&color=00d4ff" />
-    <img src="https://img.shields.io/badge/Open_to-Opportunities-00ff88?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Experience-4%2B_Years-blueviolet?style=for-the-badge" />
-  </p>
-
 </div>
 
 ---
 
 ## 🎯 The Engineer Who Builds Systems That Think
+
 ```python
 class HarshitShukla:
     def __init__(self):
         self.name = "Harshit Shukla"
-        self.role = "Data Engineer | AI Architect"
+        self.role = "Senior Data Engineer | AI Architect"
         self.location = "📍 Bengaluru, India"
         self.experience = "4+ years"
+        self.skills_level = "Expert DE & Intermediate AI"
         self.current_scale = {
             "transactions_per_day": "1-2 Million",
             "events_per_day": "50 Million+",
@@ -39,24 +28,15 @@ class HarshitShukla:
         self.passion = "Orchestrating AI to build systems that scale"
     
     def get_unique_value(self):
-        return ("I don't just write code. "
-                "I orchestrate AI to build production-grade "
+        return ("I don't just write code. I orchestrate AI to build production-grade "
                 "systems in HOURS that traditionally take WEEKS.")
     
-    def daily_routine(self):
-        return [
-            "☕ Coffee + Check Pipeline Health",
-            "🤖 Collaborate with AI Agents",
-            "📊 Optimize Data Workflows",
-            "🚀 Ship Production Code",
-            "📚 Learn New AI Tools"
-        ]
+    def ai_productivity(self):
+        return "10x throughput using Cursor, LangChain, & Agentic Workflows"
 
-
-# Instantiate
+# Booting HarshitShukla Profile...
 me = HarshitShukla()
 print(me.get_unique_value())
-```
 ## 🚀 Live Production Impact
 
 <div align="center">
