@@ -25,34 +25,50 @@
 
 ## 🎯 About Me - The Engineer Profile
 
-```json
-{
-  "name": "Harshit Shukla",
-  "role": "Data Engineer | AI Architect",
-  "location": "📍 Bengaluru, India",
-  "experience": "4+ years",
-  "current_scale": {
-    "💸 transactions_per_day": "1-2 Million",
-    "📊 events_per_day": "50 Million+",
-    "💰 revenue_impact": "₹10-20 Crore",
-    "🏢 vendors_served": "5000+",
-    "⚡ pipeline_uptime": "99.9%"
-  },
-  "tech_stack": {
-    "languages": ["Python", "SQL", "PySpark"],
-    "cloud": ["AWS", "Snowflake", "Databricks"],
-    "big_data": ["Spark", "Kafka", "Airflow"],
-    "ai_systems": ["LangChain", "Groq", "Llama 3.3"]
-  },
-  "superpower": "Orchestrating AI to build systems that scale",
-  "open_to": [
-    "Senior Data Engineer roles",
-    "AI/ML Engineer positions",
-    "Cloud Architect opportunities"
-  ],
-  "contact": "harshitshukla003@gmail.com"
-}
-```
+<div align="center">
+
+```python
+class HarshitShukla:
+    """Senior Data Engineer & AI Architect"""
+    
+    def __init__(self):
+        self.name        = "Harshit Shukla"
+        self.role        = "Data Engineer | AI Architect"
+        self.location    = "📍 Bengaluru, India"
+        self.experience  = "4+ years"
+        self.email       = "harshitshukla003@gmail.com"
+        
+        self.current_scale = {
+            "💸 transactions_per_day" : "1-2 Million",
+            "📊 events_per_day"       : "50 Million+",
+            "💰 revenue_impact"       : "₹10-20 Crore",
+            "🏢 vendors_served"       : "5000+",
+            "⚡ pipeline_uptime"      : "99.9%"
+        }
+        
+        self.tech_stack = {
+            "languages"     : ["Python", "SQL", "PySpark", "Scala"],
+            "cloud"         : ["AWS", "Azure", "GCP", "Snowflake"],
+            "big_data"      : ["Spark", "Databricks", "Kafka", "Airflow"],
+            "ai_systems"    : ["LangChain", "LangGraph", "Groq", "Llama 3.3"]
+        }
+    
+    def superpower(self):
+        return ("I don't just write code. "
+                "I orchestrate AI to build production-grade "
+                "systems in HOURS that traditionally take WEEKS.")
+    
+    def looking_for(self):
+        return [
+            "🚀 Senior Data Engineer roles",
+            "🤖 AI/ML Engineer positions",
+            "☁️ Cloud Architect opportunities",
+            "💡 Consulting projects"
+        ]
+
+# Initialize
+harshit = HarshitShukla()
+print(harshit.superpower())
 
 ## 🚀 Live Production Impact
 
