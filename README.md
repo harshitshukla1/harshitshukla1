@@ -22,10 +22,6 @@
 ---
 
 ## 🎯 The Engineer Who Builds Systems That Think
-
-## 🎯 About Me - The Engineer Profile
-## 🎯 The Engineer Who Builds Systems That Think
-
 ```python
 class HarshitShukla:
     def __init__(self):
